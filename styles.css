@@ -2,3 +2,34 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.eachProfile {
+    padding: 20px 20px 20px;
+}
+
+.pictures {
+    border-radius: 10em 15em;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+
+    /* rotate: -40deg; */
+}
+
+.dob, .address, .names {
+    text-align: center;
+   
+}
+.names {
+    text-transform: capitalize;   
+}
+
+.email {
+    color: gray;
+}
+
+h1 {
+    padding: 20px 20px 20px;
+}

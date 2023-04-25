@@ -71,3 +71,4 @@ function nameToAbbr (stateName) {
 
   return usStates[idx].abbreviation
 }
+
